@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{F7786569-667B-102B-C063-B8A4C8EA378D}|">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="dde9af8f-2344-44a1-b207-b74c67e0863c" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/GunBuy.cs">
+    <Files>
+      <File FileName="Assets/Scripts/EnemyController.cs" />
+      <File FileName="Assets/Scripts/Gun.cs" />
+      <File FileName="Assets/Scripts/WeaponSwitch.cs" />
+      <File FileName="Assets/Scripts/weaponSway.cs" Line="1" Column="1" />
+      <File FileName="Assets/TextMesh Pro/playerMovement.cs" NotebookId="1" />
+      <File FileName="Assets/Scripts/GunBuy.cs" Line="61" Column="37" NotebookId="1" />
+      <File FileName="Assets/Scripts/Target.cs" NotebookId="1" />
+      <File FileName="Assets/Scripts/GameManagement.cs" Line="1" Column="1" NotebookId="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Mobbing Monkeys">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True" />
+              <Node name="TextMesh Pro" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 4edb491d144684a1794e1a3594331d6c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - zombieEnemy: {fileID: 6665146671479434910, guid: 4a82cee1fb1b24156ba571a19e6d768e, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
